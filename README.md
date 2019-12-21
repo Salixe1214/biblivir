@@ -17,8 +17,8 @@ Biblivir est une bibliothèque virtuelle qui trace les jeux, les films, les livr
 6. Identifier l'appartennance à une série
 
 *Le type peut être: jeux (en précisant la console), films/série (en précisant le support) ou livre*
-*Le créateur peut être l'auteur, le réalisateur, le studio, le showrunneur, etc.*
-*le genre est par exemple: horreur, action, rpg, science-fiction, etc.*
+<br>*Le créateur peut être l'auteur, le réalisateur, le studio, le showrunneur, etc.*
+<br>*le genre est par exemple: horreur, action, rpg, science-fiction, etc.*
 
 # Afficher les oeuvres possédées
 
